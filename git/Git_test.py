@@ -8,3 +8,5 @@ Created on Wed May 10 18:42:58 2017
 print "Hellow! Git!"
 
 #書き換えました
+
+#renew
