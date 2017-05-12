@@ -9,6 +9,9 @@ import cv2
 print "Hellow! Git!"
 print "Bye"
 
+for i in range(arange(100))
+    print i
+
 #書き換えましたsonosan
 
 #renew
