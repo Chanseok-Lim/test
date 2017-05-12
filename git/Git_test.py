@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 Created on Wed May 10 18:42:58 2017
 
@@ -6,6 +6,7 @@ Created on Wed May 10 18:42:58 2017
 """
 
 print "Hellow! Git!"
+print "Bye"
 
 #書き換えました
 
